@@ -1,0 +1,31 @@
+# Input Files
+*.csv
+*.csvt
+
+# Databases and Shapefiles
+*.DBF
+*.dbf
+*.prj
+*.qpj
+*.shp
+*.shx
+*.sqlite
+
+# Compressed files
+*.7z
+*.zip
+
+# Documents
+*.xls?
+*.doc?
+*.pdf
+#Images
+*.jpg
+*.png
+*.tiff
+
+#Backups
+*~
+*.tmp
+
+
