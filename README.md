@@ -1,7 +1,7 @@
 # Some Perl Utilities for Survey Analysis
 
 These are some utilities developed to do some specific data processing and
-analysis on Syndey Survey Data.
+analysis on Sydney Survey Data.
 
 The utilies:
  - convert the CSV files received into SQLite databases
